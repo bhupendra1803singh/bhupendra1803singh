@@ -23,4 +23,4 @@
 ### 📫 Connect With Me
 
 - **LinkedIn:** www.linkedin.com/in/bhupendra-singh-b78a302bb
-- **Email:** <a href="bhupendra.march18@gmail.com">email@example.com</a>
+- **Email:** <a href="bhupendra.march18@gmail.com"> bhupendra.march18@gmail.com </a>
