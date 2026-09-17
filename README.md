@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Bhupendra Singh 👋
 
-<!--
-**bhupendra1803singh/bhupendra1803singh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Aspiring Data Analyst** 
+🚀 Passionate about solving problems through code and data
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack & Tools
+
+- **Languages:** `Python` • `C` • `C++` • `SQL`
+- **Data Analysis & Manipulation:** `Pandas` • `NumPy` • `Scikit-Learn` • `SQL (MySQL/PostgreSQL/MS SQL Sever)`
+- **Data Visualization & Business Intelligence:** `Power BI` • `Matplotlib` • `Seaborn` • `Advanced Excel`
+- **Core CS Fundamentals:** `Data Structures & Algorithms` • `DBMS` • `Object-Oriented Programming System (OOPS)`
+- **Tools & Platforms:** `Git` • `GitHub` • `Jupyter Notebook` • `VS Code`
