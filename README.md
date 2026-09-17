@@ -12,3 +12,8 @@
 - **Data Visualization & Business Intelligence:** `Power BI` • `Matplotlib` • `Seaborn` • `Advanced Excel`
 - **Core CS Fundamentals:** `Data Structures & Algorithms` • `DBMS` • `Object-Oriented Programming System (OOPS)`
 - **Tools & Platforms:** `Git` • `GitHub` • `Jupyter Notebook` • `VS Code`
+
+### 📫 Connect With Me
+
+- **LinkedIn:** www.linkedin.com/in/bhupendra-singh-b78a302bb
+- **Email:** `bhupendra.march18@gmail.com`
