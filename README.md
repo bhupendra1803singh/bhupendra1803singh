@@ -1,4 +1,4 @@
-# Hi there, I'm Bhupendra Singh 👋
+# Hi There, I'm Bhupendra Singh 👋
 
 💻 **Aspiring Data Analyst** 
 🚀 Passionate about solving problems through code and data.
