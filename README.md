@@ -17,13 +17,13 @@
 
 ### 🛠️ Tech Stack
 
-**Languages**
+**Languages:**
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Data Analysis & Manipulation**
+**Data Analysis & Manipulation:**
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -31,16 +31,16 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MSSQL](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
-**Visualization & BI**
+**Visualization & BI:**
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
 ![Seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat-square)
 ![Excel](https://img.shields.io/badge/-Advanced%20Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
-**CS Fundamentals**
+**CS Fundamentals:**
 `Data Structures & Algorithms` • `DBMS` • `Object-Oriented Programming (OOPS)`
 
-**Tools & Platforms**
+**Tools & Platforms:**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
