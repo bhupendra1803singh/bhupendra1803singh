@@ -53,8 +53,8 @@
 | Project | Description |
 |---|---|
 | **[SQL Data Warehouse & Analytics Pipeline](https://github.com/bhupendra1803singh/sql-data-warehouse-and-analytics-pipeline)** | Built a Modern Data Warehouse using SQL Server, including ETL processes, Data Modeling and Analytics. |
-| **[E-commerce Logistics & Delivery Analytics](https://github.com/bhupendra1803singh/ecommerce-logistics-and-delivery-analytics)** | Power BI dashboard analyzing 27K+ orders across 6 hubs, 55 drivers & 45 vehicles — DAX measures, star-schema data modeling, delivery & fleet performance KPIs. |
 | **[Telecom Churn Analysis & Prediction Pipeline](https://github.com/bhupendra1803singh/telecom-churn-analysis-and-prediction-pipeline)** | Built an end-to-end churn analysis and prediction pipeline for telecom customers. |
+| **[E-commerce Logistics & Delivery Analytics](https://github.com/bhupendra1803singh/ecommerce-logistics-and-delivery-analytics)** | Power BI dashboard analyzing 27K+ orders across 6 hubs, 55 drivers & 45 vehicles — DAX measures, star-schema data modeling, delivery & fleet performance KPIs. |
 
 ---
 
