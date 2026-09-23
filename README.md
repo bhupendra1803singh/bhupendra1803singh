@@ -23,7 +23,7 @@
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Data Analysis & ML**
+**Data Analysis & Manipulation**
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
@@ -50,14 +50,16 @@
 
 ### 📌 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **[SQL Data Warehouse & Analytics Pipeline](https://github.com/bhupendra1803singh/sql-data-warehouse-and-analytics-pipeline)** | Built a modern data warehouse using SQL Server — ETL processes, dimensional data modeling, and analytics-ready layers. | T-SQL |
-| **[E-commerce Logistics & Delivery Analytics](https://github.com/bhupendra1803singh/ecommerce-logistics-and-delivery-analytics)** | Power BI dashboard analyzing 27K+ orders across 6 hubs, 55 drivers & 45 vehicles, with DAX measures, star-schema modeling, and delivery/fleet performance KPIs. | Power BI, DAX |
-| **[Telecom Churn Analysis & Prediction Pipeline](https://github.com/bhupendra1803singh/telecom-churn-analysis-and-prediction-pipeline)** | End-to-end churn analysis and prediction pipeline for telecom customers — from data cleaning to predictive modeling. | Python, Jupyter |
+| Project | Description |
+|---|---|
+| **[SQL Data Warehouse & Analytics Pipeline](https://github.com/bhupendra1803singh/sql-data-warehouse-and-analytics-pipeline)** | Built a Modern Data Warehouse using SQL Server, including ETL processes, Data Modeling and Analytics. |
+| **[E-commerce Logistics & Delivery Analytics](https://github.com/bhupendra1803singh/ecommerce-logistics-and-delivery-analytics)** | Power BI dashboard analyzing 27K+ orders across 6 hubs, 55 drivers & 45 vehicles — DAX measures, star-schema data modeling, delivery & fleet performance KPIs. |
+| **[Telecom Churn Analysis & Prediction Pipeline](https://github.com/bhupendra1803singh/telecom-churn-analysis-and-prediction-pipeline)** | Built an end-to-end churn analysis and prediction pipeline for telecom customers. |
 
+---
 
 ### 📫 Connect With Me
 
-- **LinkedIn:** www.linkedin.com/in/bhupendra-singh-b78a302bb
-- **Email:** <a href="bhupendra.march18@gmail.com"> bhupendra.march18@gmail.com </a>
+- 💼 LinkedIn: [bhupendra-singh-b78a302bb](https://www.linkedin.com/in/bhupendra-singh-b78a302bb)
+- 📧 Email: bhupendra.march18@gmail.com
+- 🧩 LeetCode: [bhupendra1803](https://leetcode.com/u/bhupendra1803/)
