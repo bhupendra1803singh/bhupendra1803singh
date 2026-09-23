@@ -1,7 +1,6 @@
 # Hi, I'm Bhupendra Singh 👋
 
 💻 **Aspiring Data Analyst | Turning Raw Data into Business Decisions** 
-
 🚀 Passionate about solving problems through code and data.
 
 <p>
