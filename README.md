@@ -1,7 +1,13 @@
-# Hi There, I'm Bhupendra Singh 👋
+# Hi, I'm Bhupendra Singh 👋
 
-💻 **Aspiring Data Analyst** 
+💻 **Aspiring Data Analyst | Turning Raw Data into Business Decisions** 
 🚀 Passionate about solving problems through code and data.
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/bhupendra-singh-b78a302bb"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bhupendra.march18@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/bhupendra1803/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" /></a>
+</p>
 
 ---
 
