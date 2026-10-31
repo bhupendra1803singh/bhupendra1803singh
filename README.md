@@ -10,7 +10,7 @@
 - 🔭 Currently Working On: Advanced Power BI reporting and end-to-end data pipelines with Python, SQL & Excel.
 - 🧠 Practicing Data Structures & Algorithms in C++.
 - 🌱 Learning Data Warehousing concepts and Cloud fundamentals.
-- 💬 Ask me about SQL query optimization, RFM segmentation, or Power BI DAX.
+- 💬 Ask me about SQL query optimization or Power BI DAX.
 - ⚡ Fun fact: when I'm not querying databases, I'm hunting for the next interesting story hiding in a dataset.
 
 ---
